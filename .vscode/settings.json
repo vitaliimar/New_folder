@@ -1,0 +1,54 @@
+// {
+//   "editor.tabSize": 2,
+//   "files.autoSave": "afterDelay",
+//   "editor.fontSize": 16,
+//   "editor.formatOnType": true,
+//   "files.autoSaveDelay": 500
+// }
+{
+	"workbench.colorTheme": "Monokai Dimmed",
+	"security.workspace.trust.untrustedFiles": "open",
+	"terminal.integrated.automationProfile.linux": {},
+	"terminal.integrated.automationProfile.windows": {},
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"workbench.iconTheme": "material-icon-theme",
+	"files.autoSave": "afterDelay",
+	"editor.mouseWheelZoom": true,
+	"ecsstractor_port.bem_nesting": true,
+	"vscodeGoogleTranslate.preferredLanguage": "Ukrainian",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"prettier.bracketSameLine": true,
+	"editor.formatOnPaste": true,
+	"diffEditor.maxFileSize": 0,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"gutterpreview.imagePreviewMaxHeight": 3,
+	"gutterpreview.imagePreviewMaxWidth": 3,
+	"diffEditor.maxComputationTime": 1000,
+	"html.hover.references": false,
+	"prettier.useTabs": true,
+	"editor.tabSize": 2,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"diffEditor.useInlineViewWhenSpaceIsLimited": false,
+	"editor.minimap.autohide": true,
+	"editor.minimap.maxColumn": 180,
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 120,
+	"editor.wrappingIndent": "none",
+	"prettier.printWidth": 120,
+	"diffEditor.wordWrap": "off",
+	"html.format.wrapAttributes": "aligned-multiple",
+	"html.format.wrapLineLength": 0,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.startupEditor": "none",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"diffEditor.renderSideBySide": false,
+	"editor.fontSize": 16,
+	"files.autoSaveDelay": 500
+}
