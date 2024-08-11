@@ -1,3 +1,6 @@
-console.log('Hello 1');
-console.log('Hello 3');
-console.log('Hello 5');
+// let msg = "Hello, world!";
+// console.log(msg);
+
+
+// let msg2 = "Hello, world!888";
+// console.log(msg2);
